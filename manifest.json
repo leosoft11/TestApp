@@ -1,0 +1,14 @@
+{
+    "name": "MyApp",
+    "description": "Base",
+    "version": "1.0",
+    "author": "lukarek",
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": ["main.js"]
+        }
+    ]
+}
