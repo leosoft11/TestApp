@@ -13,7 +13,7 @@
             "matches": [
                 "<all_urls>"
             ],
-            "js": ["main.js"]
+            "js": ["main.js", "main1.js"]
         }
     ],
     "permissions": ["activeTab"]
